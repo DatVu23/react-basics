@@ -18,9 +18,9 @@ Topics to be covered today
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- What is React
+- React basics
+- Why should you use it
 @olend
 @snapend
 
