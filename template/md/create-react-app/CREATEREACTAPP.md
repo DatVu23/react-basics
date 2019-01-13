@@ -1,7 +1,10 @@
 ---?
 @title[Create React App]
-#Create React App
+# Create React App
 
-+++?image=template/img/create-react-app.jpg
-@title[]
++++?image=template/img/black-background.jpg
+@title[Why should we use Create React App];
+@snap[south span-20 text-white]
+Create React App — отличный инструмент для быстрого старта React-приложений. Вы не тратите время на настройку Webpack, Babel и других привычных инструментов. Они заранее настроены и спрятаны, так что разработчики могут сфокусироваться на коде и бизнес-логике приложения
+@snaped
 
