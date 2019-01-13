@@ -2,7 +2,7 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
+What is React?
 @snapend
 
 @snap[south-west byline text-white text-06]
