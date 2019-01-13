@@ -13,11 +13,9 @@
 @size[1rem](Create React App предоставляет CLI-интерфейс для создания приложений с базовой структурой, устанавливает все нужные зависимости и добавляет в package.json скрипты для запуска, тестов и сборки приложения..)
 @snaped
 <br>
-@snap[west]
 ```
 npm install -g create-react-app
 create-react-app my-app
 cd my-app/
 npm start # yarn start
 ```
-@snaped
