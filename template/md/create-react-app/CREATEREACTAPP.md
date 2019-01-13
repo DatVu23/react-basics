@@ -4,7 +4,7 @@
 
 +++?image=template/img/black-background.jpg
 @title[Why should we use Create React App];
-@snap[text-white]
-@size[1rem](Create React App — отличный инструмент для быстрого старта React-приложений. Вы не тратите время на настройку Webpack, Babel и других привычных инструментов. Они заранее настроены и спрятаны, так что разработчики могут сфокусироваться на коде и бизнес-логике приложения)
+@snap[text-white span-100]
+@size[1rem](Create React App — отличный инструмент для быстрого старта React-приложений. Вы не тратите время на настройку Webpack, Babel и других привычных инструментов. Они заранее настроены и спрятаны.)
 @snaped
 
