@@ -5,16 +5,7 @@
 What is React?
 @snapend
 
----
-@title[Create React App]
-
-### Create React App*.
-
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
+---?include=template/md/create-react-app/CREATEREACTAPP.md
 
 ---
 @title[Tip! Fullscreen]
