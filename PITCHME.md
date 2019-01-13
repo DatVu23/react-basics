@@ -5,14 +5,10 @@
 What is React?
 @snapend
 
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
-@snapend
-
 ---
-@title[Slide Markdown]
+@title[Create React App]
 
-### Each slide in this presentation is provided as a *template*.
+### Create React App*.
 
 <br><br>
 
