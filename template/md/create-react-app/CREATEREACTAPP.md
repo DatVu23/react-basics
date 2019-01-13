@@ -4,7 +4,7 @@
 
 +++?
 @title[Why should we use Create React App];
-@snap[ span-60]
+@snap[west span-60]
 @size[1rem](Create React App — инструмент для быстрого старта React-приложений. Не нужно тратить время на настройку Webpack, Babel и других привычных инструментов. Они заранее настроены и спрятаны.)
 @snaped
 
