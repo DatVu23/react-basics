@@ -35,6 +35,5 @@ npm start # yarn start
 - Функциональность этого инструмента быстро расширяется.
 - Удобная работа с CSS.
 - React scripts.
-- React scripts.
 @ulend
 @snapend
