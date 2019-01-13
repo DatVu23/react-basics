@@ -1,2 +1,4 @@
 ---?image=template/img/black-background.jpg
-#Test
+@snap[west span-45]
+# Test
+@snapend
