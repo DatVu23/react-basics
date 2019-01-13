@@ -9,7 +9,7 @@
 @snaped
 
 +++?
-@snap[span-50]
+@snap[east span-50]
 @size[1rem](Create React App предоставляет CLI-интерфейс для создания приложений с базовой структурой, устанавливает все нужные зависимости и добавляет в package.json скрипты для запуска, тестов и сборки приложения..)
 @snaped
 <br>
@@ -19,3 +19,22 @@ create-react-app my-app
 cd my-app/
 npm start # yarn start
 ```
+
++++?
+@snap[north-west]
+Причины использования Create React App
+@N причин, чтобы использовать Create React App
+@snapend
+
+@snap[west list-content-verbose span-100]
+<br>
+@ul[](false)
+- В структуре приложения нет конфигурации и лишних файлов.
+- Весь стек обновляется одной строкой.
+- Стек разработки фиксированный и стабильный.
+- Функциональность этого инструмента быстро расширяется.
+- Удобная работа с CSS.
+- React scripts.
+- React scripts.
+@ulend
+@snapend
