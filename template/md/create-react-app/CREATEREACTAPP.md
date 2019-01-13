@@ -23,6 +23,7 @@ npm start # yarn start
 +++?
 @snap[north-west]
 Причины использования Create React App
+<br>
 @N причин, чтобы использовать Create React App
 @snapend
 
