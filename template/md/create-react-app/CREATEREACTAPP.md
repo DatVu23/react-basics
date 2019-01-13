@@ -9,28 +9,13 @@
 @snaped
 
 ++?
-@snap[west span-60]
+@snap[west span-100]
 @size[1rem](Create React App предоставляет CLI-интерфейс для создания приложений с базовой структурой, устанавливает все нужные зависимости и добавляет в package.json скрипты для запуска, тестов и сборки приложения..)
 @snaped
-```javascript
-// Include http module.
-var http = require("http");
 
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
+```
+npm install -g create-react-app
+create-react-app my-app
+cd my-app/
+npm start # yarn start
 ```
