@@ -1,1 +1,2 @@
----?color=(#20232a);
+---?image=template/img/black-background.jpg
+#Test
