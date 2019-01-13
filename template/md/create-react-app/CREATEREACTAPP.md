@@ -1,4 +1,7 @@
----?image=template/img/black-background.jpg
-@snap[north span-30 text-bold text-white]
-Test
-@snapend
+---?
+@title[Create React App]
+#Create React App
+
++++?image=template/img/create-react-app.jpg
+@title[]
+
