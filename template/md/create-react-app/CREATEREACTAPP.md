@@ -1,4 +1,4 @@
 ---?
-@snap[north span-30 text-bold text-white]
+@snap[west text-25 text-bold text-white]
 # Test
 @snapend
