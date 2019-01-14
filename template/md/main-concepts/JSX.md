@@ -6,7 +6,7 @@
 По существу, JSX просто предоставляет синтаксический сахар для функции React.createElement(component, props, ...children). JSX-код:
 @snaped
 
-@snap[south-east]
+@snap[south-east text-5]
 ```
   <div className="my-class" />
 ```
