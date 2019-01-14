@@ -10,9 +10,7 @@
 ```
   <div className="my-class" />
 ```
-@snap[south-west]
 @size[0.8em](Компилируется в:)
-@snaped
 ```
   React.createElement(
     'div',
