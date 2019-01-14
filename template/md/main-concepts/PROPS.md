@@ -1,2 +1,2 @@
----?images=template/img/state-vs-props.jpg
+---?image=template/img/state-vs-props.jpg
 ### Props
