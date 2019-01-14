@@ -7,7 +7,6 @@
 @snaped
 
 ```
-```
   <div className="my-class" />
 ```
 
