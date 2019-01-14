@@ -7,7 +7,7 @@ What is React?
 
 ---?include=template/md/create-react-app/CREATEREACTAPP.md
 
----?include=tempalte/md/main-concepts/MAINCONCEPTS.md
+---?include=tempalte/md/jsx/JSX.md
 
 ---
 @title[Tip! Fullscreen]
