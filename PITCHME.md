@@ -11,6 +11,8 @@ What is React?
 
 ---?include=template/md/main-concepts/PROPS.md
 
+---?include=template/md/main-concepts/LIFECYCLE.md
+
 ---
 @title[Tip! Fullscreen]
 
