@@ -3,7 +3,7 @@
 
 +++?
 @snap[north-west span-60]
-По существу, JSX просто предоставляет синтаксический сахар для функции React.createElement(component, props, ...children). JSX-код:
+@size[0.7em](По существу, JSX просто предоставляет синтаксический сахар для функции React.createElement(component, props, ...children). JSX-код:)
 @snaped
 
 @snap[south-east]
