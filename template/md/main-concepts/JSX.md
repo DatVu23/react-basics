@@ -2,8 +2,8 @@
 ### JSX
 
 +++?
-@snap[west span-60]
-По существу, JSX просто предоставляет синтаксический сахар для функции React.createElement(component, props, ...children). JSX-код
+@snap[east span-60]
+По существу, JSX просто предоставляет синтаксический сахар для функции React.createElement(component, props, ...children). JSX-код:
 @snaped
 
 ```
