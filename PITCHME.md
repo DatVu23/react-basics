@@ -9,6 +9,8 @@ What is React?
 
 ---?include=template/md/main-concepts/JSX.md
 
+---?include=template/md/main-concepts/PROPS.md
+
 ---
 @title[Tip! Fullscreen]
 
