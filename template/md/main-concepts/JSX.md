@@ -10,7 +10,7 @@
 ```
   <div className="my-class" />
 ```
-@size[0.08em](Компилируется в:)
+@size[0.8em](Компилируется в:)
 ```
   React.createElement(
     'div',
