@@ -10,6 +10,10 @@
   <div className="my-class" />
 ```
 
+@snap[west span-60]
+Компилируется в:
+@snaped
+
 ```
   React.createElement(
     'div',
