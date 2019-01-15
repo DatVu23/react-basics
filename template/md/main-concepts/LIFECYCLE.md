@@ -70,12 +70,18 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[south-west text-green span-45]
-@box[bg-white text-green box-recomendations](Можно:#Использовать для оптимизации производительности компонента)
+Можно:
+@ul[](false)
+- Использовать для оптимизации производительности компонента
+@ulend
 @snapend
 
 @snap[south-east text-orange span-50]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов
-Не вызывать this.setState)
+Лучше не делать:
+@ul[](false)
+- Не выполнять никаких сайд-эффектов.
+- Не вызывать this.setState
+@ulend
 @snapend
 
 
