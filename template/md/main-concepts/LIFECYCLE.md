@@ -6,7 +6,7 @@
 
 +++?
 
-@snap[west]
+@snap[north]
 [deprecated]componentWillMount
 @snaped
 
