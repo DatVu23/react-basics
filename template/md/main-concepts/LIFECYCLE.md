@@ -81,14 +81,14 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 Эта функция будет вызываться при каждом апдейт жизненном цикле, который будет происходить при изменениях в props
 @snapend
 
-@snap[south-west text-green span-40]
+@snap[south-west text-green span-45]
 Можно:
 @ul[](false)
 - Использовать для оптимизации производительности компонента
 @ulend
 @snapend
 
-@snap[south-east text-orange span-40]
+@snap[south-east text-orange span-45]
 Лучше не делать:
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
