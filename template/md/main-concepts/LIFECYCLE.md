@@ -138,10 +138,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[south-east text-orange span-55]
-Лучше не делать:
-@ul[](false)
-- Не вызывать this.setState т.к. это будет вызывать циклическую перерисовку.
-@ulend
+@box[text-orange cdu-orange](Лучше не делать:#Не вызывать this.setState т.к. это будет вызывать циклическую перерисовку)
 @snapend
 
 
