@@ -253,7 +253,7 @@ div.docslink a:hover {
 
 .cdu-orange {
   font-size: 2.4rem !important;
-  text-align: left;
+  text-align: left !important;
 }
 
 #boxed-text-title-box {
