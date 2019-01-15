@@ -6,19 +6,19 @@
 
 +++?
 
-@snap[north-west]
+@snap[west]
 [deprecated]componentWillMount
 @snaped
 
-@snap[south-west]
+@snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snaped
 
-@snap[south-west]
+@snap[west]
 Можно: 
 @snaped
 
-@snap[south-west]
+@snap[west]
 <br>
 @ol[](false)
 - Устанавливайте изначальное состояние компонента.
