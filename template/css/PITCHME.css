@@ -251,8 +251,11 @@ div.docslink a:hover {
   font-size: 50% !important;
 }
 
-.cdu-orange p {
+.cdu-orange {
   font-size: 2.4rem !important;
+}
+
+.cdu-orange p {
   text-align: left !important;
 }
 
