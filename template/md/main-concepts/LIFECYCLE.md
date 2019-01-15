@@ -11,6 +11,7 @@
 
 @snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
+<br>
 @snapend
 
 @snap[south-west span-45]
