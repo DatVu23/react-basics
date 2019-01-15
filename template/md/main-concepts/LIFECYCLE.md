@@ -9,7 +9,7 @@
 Constructor
 @snapend
 
-@snap[west text-green span-40]
+@snap[west text-green span-30]
 @box[bg-white text-green box-recomendations](Можно:#Устанавливать состояние компонента.)
 @snapend
 
