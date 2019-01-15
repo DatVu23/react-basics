@@ -5,10 +5,22 @@
 ![TIP](template/img/lifecycle.jpg)
 
 +++?
+
+@snap[north-west]
 [deprecated]componentWillMount
-@snap[west]
+@snaped
+
+@snap[south-west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snaped
 
-@snap[south-east]
-Можно:
+@snap[south-west]
+Можно: 
+@snaped
+
+@snap[south-west]
+<br>
+@ol[](false)
+- Устанавливайте изначальное состояние компонента.
+@olend
+@snaped
