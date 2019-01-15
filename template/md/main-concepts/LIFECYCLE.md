@@ -14,13 +14,13 @@ ComponentWillMount не особо отличается от конструкт�
 @snapend
 
 @snap[south-west text-green span-40]
-@css[text-green fragment](Можно делать:)
+Можно делать:
 @ul[](false)
 - Устанавливать состояние компонента.
 @ulend
 @snapend
 
-@snap[south-east span-40]
+@snap[south-east text-red span-40]
 @css[text-red fragment](Лучше не делать:)
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
