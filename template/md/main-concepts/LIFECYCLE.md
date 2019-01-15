@@ -131,10 +131,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[south-west text-green span-40]
-Можно:
-@ul[](false)
-- Выполнять сайд-эффекты
-@ulend
+@box[bg-white text-green box-recomendations](Можно:#Выполнять сайд-эффекты)
 @snapend
 
 @snap[south-east text-orange span-55]
