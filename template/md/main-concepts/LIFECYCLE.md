@@ -88,7 +88,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @ulend
 @snapend
 
-@snap[south-east text-orange span-55]
+@snap[south-east text-orange span-50]
 Лучше не делать:
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
