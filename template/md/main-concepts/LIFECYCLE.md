@@ -9,16 +9,10 @@
 [deprecated]componentWillMount
 @snapend
 
-@snap[south-west]
+@snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
-@snapend
-
-@snap[south-west]
-Можно: 
-@snapend
-
-@snap[south-west]
 <br>
+Можно: 
 @ul[](false)
 - Устанавливайте изначальное состояние компонента.
 @ulend
