@@ -66,22 +66,15 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[west]
-Этот метод будет вызываться при каждом апдейт жизненном цикле, который будет происходить при изменениях в props
+@size[1.6rem](`Этот метод будет вызываться при каждом апдейт жизненном цикле, который будет происходить при изменениях в props`)
 @snapend
 
 @snap[south-west text-green span-45]
-Можно:
-@ul[](false)
-- Использовать для оптимизации производительности компонента
-@ulend
+@box[bg-white text-green box-recomendations](Можно:#Использовать для оптимизации производительности компонента)
 @snapend
 
 @snap[south-east text-orange span-50]
-Лучше не делать:
-@ul[](false)
-- Не выполнять никаких сайд-эффектов.
-- Не вызывать this.setState
-@ulend
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов- Не вызывать this.setState)
 @snapend
 
 
