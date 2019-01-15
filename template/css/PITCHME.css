@@ -251,6 +251,10 @@ div.docslink a:hover {
   font-size: 50% !important;
 }
 
+.cdu-orange {
+  font-size: 0.8rem;
+}
+
 #boxed-text-title-box {
   background-color: white;
 }
