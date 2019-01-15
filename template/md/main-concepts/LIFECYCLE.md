@@ -8,11 +8,17 @@
 
 [deprecated]componentWillMount
 
+@snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
+@snaped
 
+@snap[west]
 Можно: 
+@snaped
 
+@snap[west]
 <br>
-@ol[](false)
+@ul[](false)
 - Устанавливайте изначальное состояние компонента.
-@olend
+@ulend
+@snaped
