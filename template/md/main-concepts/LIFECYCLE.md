@@ -13,14 +13,14 @@
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snapend
 
-@snap[south-west span-55]
+@snap[south-west span-40]
 Можно делать: 
 @ul[](false)
 - Устанавливать изначальное состояние компонента.
 @ulend
 @snapend
 
-@snap[south-east span-55]
+@snap[south-east span-40]
 Лучше не делать: 
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
