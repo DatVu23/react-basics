@@ -137,16 +137,11 @@ componentDidCatch(errorString, errorInfo)
 @snapend
 
 @snap[south-west text-green span-40]
-@box[bg-white text-green box-recomendations](Можно:#@ul[](false)
-- Выполнять сайд-эффекты
-@ulend)
+@box[bg-white text-green box-recomendations](Можно:#Выполнять сайд-эффекты)
 @snapend
 
 @snap[south-east text-orange span-40]
-Лучше не делать:
-@ul[](false)
-- Не вызывать this.setState т.к. это будет вызовет перерисовку.
-@ulend
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать this.setState т.к. это будет вызовет перерисовку.)
 @snapend
 
 
