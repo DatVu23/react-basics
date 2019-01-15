@@ -10,15 +10,15 @@
 
 @snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
-@snaped
+@snapend
 
 @snap[west]
 Можно: 
-@snaped
+@snapend
 
 @snap[west]
 <br>
 @ul[](false)
 - Устанавливайте изначальное состояние компонента.
 @ulend
-@snaped
+@snapend
