@@ -177,7 +177,7 @@ componentWillUnmount
 
 +++?
 @snap[north]
-static getDerivedStateFromProps(nextProps, prevState)
+@size[2rem](`static getDerivedStateFromProps(nextProps, prevState)`)
 @snapend
 
 @snap[west]
