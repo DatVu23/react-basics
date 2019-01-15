@@ -10,18 +10,18 @@
 @snapend
 
 @snap[west]
-componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
+ComponentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snapend
 
-@snap[south-west span-40]
-@css[text-green fragment](`Можно делать:`)
+@snap[south-west text-green span-40]
+@css[text-green fragment](Можно делать:)
 @ul[](false)
 - Устанавливать состояние компонента.
 @ulend
 @snapend
 
 @snap[south-east span-40]
-@css[text-red fragment](`Лучше не делать: `)
+@css[text-red fragment](Лучше не делать:)
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
 @ulend
