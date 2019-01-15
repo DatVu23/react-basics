@@ -74,7 +74,8 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[south-east text-orange span-50]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов- Не вызывать this.setState)
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов
+Не вызывать this.setState)
 @snapend
 
 
