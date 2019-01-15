@@ -20,7 +20,7 @@ ComponentWillMount не особо отличается от конструкт�
 @ulend
 @snapend
 
-@snap[south-east text-red span-40]
+@snap[south-east text-blue span-40]
 Лучше не делать:
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
