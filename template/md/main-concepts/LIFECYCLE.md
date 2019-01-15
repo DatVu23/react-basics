@@ -5,7 +5,7 @@
 ![TIP](template/img/lifecycle.jpg)
 
 +++?
-### [deprecated]componentWillMount
+[deprecated]componentWillMount
 @snap[west]
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snaped
