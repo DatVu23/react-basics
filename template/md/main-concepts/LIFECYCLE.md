@@ -28,17 +28,11 @@ ComponentWillMount не особо отличается от конструкт�
 @snapend
 
 @snap[south-west text-green span-40]
-Можно:
-@ul[](false)
-- Обновлять состояние через this.setState.
-@ulend
+@box[bg-white text-green box-recomendations](Можно:#Обновлять состояние через this.setState.)
 @snapend
 
 @snap[south-east text-orange span-40]
-Лучше не делать:
-@ul[](false)
-- Не выполнять никаких сайд-эффектов.
-@ulend
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов.)
 @snapend
 
 
