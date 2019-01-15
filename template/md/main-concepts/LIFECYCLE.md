@@ -123,11 +123,11 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 
 +++?
 @snap[north]
-componentDidUpdate(prevProps, prevState, prevContext)
+СomponentDidUpdate(prevProps, prevState, prevContext)
 @snapend
 
 @snap[west]
-Эта функция будет вызываться после того как отработала функция render, в каждом цикле перерисовки. Это означает, что вы можете быть уверены, что компонент и все его дочерние компоненты уже перерисовали себя. Эта функция является единственной функцией, что гарантировано будет вызвана только раз в каждом цикле перерисовки, поэтому любые сайд-эффекты рекомендуется выполнять именно здесь.
+Эта метод будет вызываться после того как отработала функция render, в каждом цикле перерисовки.
 @snapend
 
 @snap[south-west text-green span-40]
@@ -137,7 +137,7 @@ componentDidUpdate(prevProps, prevState, prevContext)
 @ulend
 @snapend
 
-@snap[south-east text-orange span-40]
+@snap[south-east text-orange span-55]
 Лучше не делать:
 @ul[](false)
 - Не вызывать this.setState т.к. это будет вызывать циклическую перерисовку.
