@@ -61,7 +61,7 @@ ComponentWillMount не особо отличается от конструкт�
 
 
 +++?
-@snap[north]
+@snap[north-west]
 shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
@@ -86,7 +86,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 
 
 +++?
-@snap[north]
+@snap[north-west]
 [deprecated]componentWillUpdate(nextProps, nextState)
 @snapend
 
@@ -110,7 +110,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 
 
 +++?
-@snap[north]
+@snap[north-west]
 СomponentDidUpdate(prevProps, prevState, prevContext)
 @snapend
 
@@ -128,19 +128,18 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 
 
 +++?
-@snap[north]
+@snap[north-west]
 componentDidCatch(errorString, errorInfo)
 @snapend
 
 @snap[west]
-Дополнение в React 16 – этот метод жизненного цикла является особым, т.к. он позволяет реагировать на события, происходящие в дочернем компоненте, а конкретно на любые неперехваченные ошибки в любом из дочерних компонентов.
+@size[1.4rem](`Дополнение в React 16 – этот метод жизненного цикла является особым, т.к. он позволяет реагировать на события, происходящие в дочернем компоненте, а конкретно на любые неперехваченные ошибки в любом из дочерних компонентов.`)
 @snapend
 
 @snap[south-west text-green span-40]
-Можно:
-@ul[](false)
+@box[bg-white text-green box-recomendations](Можно:#@ul[](false)
 - Выполнять сайд-эффекты
-@ulend
+@ulend)
 @snapend
 
 @snap[south-east text-orange span-40]
@@ -152,7 +151,7 @@ componentDidCatch(errorString, errorInfo)
 
 
 +++?
-@snap[north]
+@snap[north-west]
 componentWillUnmount
 @snapend
 
