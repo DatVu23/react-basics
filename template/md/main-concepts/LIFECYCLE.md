@@ -13,7 +13,7 @@
 componentWillMount не особо отличается от конструктора и вызывается лишь раз в изначальном жизненном цикле.
 @snapend
 
-@snap
+@snap[south-west]
 <br>
 Можно: 
 @ul[](false)
