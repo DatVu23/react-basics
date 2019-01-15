@@ -14,7 +14,7 @@ Constructor
 @snapend
 
 @snap[east text-orange span-40]
-@box[bg-white text-green box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов.)
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов.)
 @snapend
 
 
