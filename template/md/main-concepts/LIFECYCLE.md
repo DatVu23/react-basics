@@ -10,17 +10,11 @@ Constructor
 @snapend
 
 @snap[west text-green span-40]
-Можно:
-@ul[](false)
-- Устанавливать состояние компонента.
-@ulend
+@box[bg-white text-green box-recomendations](Можно:#Устанавливать состояние компонента.)
 @snapend
 
 @snap[east text-orange span-40]
-Лучше не делать:
-@ul[](false)
-- Не выполнять никаких сайд-эффектов.
-@ulend
+@box[bg-white text-green box-recomendations](Лучше не делать:#Не выполнять никаких сайд-эффектов.)
 @snapend
 
 
