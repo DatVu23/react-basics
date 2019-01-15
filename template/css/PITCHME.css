@@ -250,3 +250,11 @@ div.docslink a:hover {
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
+
+.cdu-orange {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#boxed-text-title {
+  background-color: rgba(0, 0, 0, 0);
+}
