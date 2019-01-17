@@ -15,6 +15,8 @@ What is React?
 
 ---?include=template/md/main-concepts/CONDITION.md
 
+---?include=template/md/main-concepts/LISTS.md
+
 ---
 @title[Tip! Fullscreen]
 
