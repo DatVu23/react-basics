@@ -13,6 +13,8 @@ What is React?
 
 ---?include=template/md/main-concepts/LIFECYCLE.md
 
+---?include=template/md/main-concepts/CONDITION.md
+
 ---
 @title[Tip! Fullscreen]
 
