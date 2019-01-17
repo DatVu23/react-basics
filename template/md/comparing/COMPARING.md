@@ -12,7 +12,7 @@
 Что я должен выбрать?
 @snapend
 
-@snap[west span-65]
+@snap[west span-100]
 @ul[](false)
 - Если вы работаете в Google: Angular
 - Если вы любите TypeScript: Angular
