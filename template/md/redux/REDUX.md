@@ -10,8 +10,7 @@
 @snapend
 
 @snap[east]
-@img[split-
-screen-img span-55](template/img/flux.jpg)
+@img[split-screen-img span-55](template/img/flux.jpg)
 @snapend
 
 
