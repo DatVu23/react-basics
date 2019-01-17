@@ -1,4 +1,4 @@
 ---?
 @snap
-@img[span-60](tempalte/img/dog.jpg)
+@img[span-60](tempalte/img/knight.jpg)
 @snaped
