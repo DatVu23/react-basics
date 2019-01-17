@@ -8,12 +8,12 @@
 
 
 +++?
-@snap[north-west text-16 text-italic span-50]
+@snap[north-west]
 Что я должен выбрать?
 @snapend
 
 @snap[west span-65]
-@ul[split-screen-list text-08](false)
+@ul[](false)
 - Если вы работаете в Google: Angular
 - Если вы любите TypeScript: Angular
 - Если вы работаете в Facebook: React
