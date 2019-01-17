@@ -24,8 +24,6 @@ What is React?
 ---?include=template/md/redux/REDUX.md
 
 
-
-
 ---
 @title[Tip! Fullscreen]
 
