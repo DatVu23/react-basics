@@ -1,11 +1,6 @@
 ---?image=template/img/connect.jpg
 
 +++?
-
-### You Might Not Need Redux
-
-
-+++?
 @snap[north]
 ### MVC не масштабируется
 @snapend
@@ -15,8 +10,14 @@
 @snapend
 
 @snap[east]
-@img[split-screen-img span-55](template/img/flux.jpg)
+@img[split-
+screen-img span-55](template/img/flux.jpg)
 @snapend
+
+
++++?
+
+### You Might Not Need Redux
 
 
 +++?
