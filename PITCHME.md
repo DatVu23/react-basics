@@ -17,6 +17,9 @@ What is React?
 
 ---?include=template/md/main-concepts/LISTS.md
 
+---?include=template/md/main-concepts/RECONCILIATION.md
+
+
 ---
 @title[Tip! Fullscreen]
 
