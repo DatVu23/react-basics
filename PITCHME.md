@@ -21,6 +21,10 @@ What is React?
 
 ---?include=template/md/main-concepts/RECONCILIATION.md
 
+---?include=template/md/redux/REDUX.md
+
+
+
 
 ---
 @title[Tip! Fullscreen]
