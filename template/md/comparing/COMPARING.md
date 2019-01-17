@@ -9,10 +9,10 @@
 
 +++?
 @snap[north-west]
-Что я должен выбрать?
+Что выбрать?
 @snapend
 
-@snap[west span-100]
+@snap[west span-125]
 @ul[](false)
 - Если вы работаете в Google: Angular
 - Если вы любите TypeScript: Angular
