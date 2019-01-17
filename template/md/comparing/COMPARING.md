@@ -8,7 +8,7 @@
 
 
 +++?
-@snap[west text-16 text-bold text-italic text-orange span-50]
+@snap[north-west text-16 text-italic span-50]
 Что я должен выбрать?
 @snapend
 
