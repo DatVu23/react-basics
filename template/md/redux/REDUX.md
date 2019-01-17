@@ -10,6 +10,6 @@
 @img[split-screen-img span-55](template/img/twitter-user-data.jpg)
 @snapend
 
-@snap[east fragment]
+@snap[east]
 @img[split-screen-img span-55](template/img/twitter-hierarchy.jpg)
 @snapend
