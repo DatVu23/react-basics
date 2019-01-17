@@ -17,6 +17,8 @@ What is React?
 
 ---?include=template/md/main-concepts/LISTS.md
 
+---?include=template/md/main-concepts/HIGHERORDERCOMPONENTS.md
+
 ---?include=template/md/main-concepts/RECONCILIATION.md
 
 
