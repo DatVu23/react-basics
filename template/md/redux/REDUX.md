@@ -1,3 +1,3 @@
----?image=template/img/redux-logo.jpg
+---?image=template/img/connect.jpg
 
 ### You Might Not Need Redux
