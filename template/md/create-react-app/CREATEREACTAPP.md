@@ -1,4 +1,4 @@
----?
+---?image=template/img/optimising.jpg
 @title[Create React App]
 ### Используйте Create React App
 
