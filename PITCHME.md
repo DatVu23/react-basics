@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #c02425, #20232a)
 @title[Introduction]
 
-@snap[west text-25 text-bold text-white]
+@snap[text-25 text-bold text-white]
 What is React?
 @snapend
 
