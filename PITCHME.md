@@ -23,6 +23,8 @@ What is React?
 
 ---?include=template/md/redux/REDUX.md
 
+---?include=template/md/comparing/COMPARING.md
+
 
 ---
 @title[Tip! Fullscreen]
