@@ -6,6 +6,8 @@
 
 +++?
 
+### When I'm sure that I need Redux
+
 @snap[west]
 @img[split-screen-img span-55](template/img/twitter-user-data.jpg)
 @snapend
