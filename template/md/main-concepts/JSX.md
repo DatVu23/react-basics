@@ -1,4 +1,4 @@
----?
+---?image=template/img/optimising.jpg
 ### JSX и Отрисовка элементов
 
 +++?
