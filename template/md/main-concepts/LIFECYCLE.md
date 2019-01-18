@@ -136,13 +136,6 @@ componentDidCatch(errorString, errorInfo)
 @size[1.4rem](`Дополнение в React 16 – этот метод жизненного цикла является особым, т.к. он позволяет реагировать на события, происходящие в дочернем компоненте, а конкретно на любые неперехваченные ошибки в любом из дочерних компонентов.`)
 @snapend
 
-@snap[south-west text-green span-40]
-@box[bg-white text-green box-recomendations](Можно:#Выполнять сайд-эффекты)
-@snapend
-
-@snap[south-east text-orange span-40]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это будет вызовет перерисовку.)
-@snapend
 
 +++?
 @snap[north-west]
@@ -158,7 +151,7 @@ componentDidMount
 @snapend
 
 @snap[south-east text-orange span-40]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это будет вызовет перерисовку.)
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это вызовет перерисовку.)
 @snapend
 
 
