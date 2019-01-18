@@ -1,2 +1,2 @@
 ---?image=template/img/optimising.jpg
-### Отрисовка по условию
+@color[gold](Отрисовка по условию)
