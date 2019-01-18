@@ -28,7 +28,7 @@ ComponentWillMount не особо отличается от конструкт�
 @snapend
 
 @snap[south-west text-green span-40]
-@box[bg-white text-green box-recomendations](Можно:#Обновлять состояние через this.setState.)
+@box[bg-white text-green box-recomendations](Можно:#Обновлять состояние через setState.)
 @snapend
 
 @snap[south-east text-orange span-40]
@@ -80,7 +80,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 Лучше не делать:
 @ul[](false)
 - Не выполнять никаких сайд-эффектов.
-- Не вызывать this.setState
+- Не вызывать setState
 @ulend
 @snapend
 
@@ -123,7 +123,7 @@ shouldComponentUpdate(nextProps, nextState, nextContext)
 @snapend
 
 @snap[south-east text-orange span-55]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать this.setState т.к. это будет вызывать циклическую перерисовку)
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это будет вызывать циклическую перерисовку)
 @snapend
 
 
@@ -141,7 +141,24 @@ componentDidCatch(errorString, errorInfo)
 @snapend
 
 @snap[south-east text-orange span-40]
-@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать this.setState т.к. это будет вызовет перерисовку.)
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это будет вызовет перерисовку.)
+@snapend
+
++++?
+@snap[north-west]
+componentDidMount
+@snapend
+
+@snap[west]
+@size[1.4rem](`Метод вызывается один раз в жизненном цикле компонентаи сигнализрует о том, что компонент и все чайлды отрендерились без ошибок.`)
+@snapend
+
+@snap[south-west text-green span-40]
+@box[bg-white text-green box-recomendations](Можно:#Выполнять сайд-эффекты)
+@snapend
+
+@snap[south-east text-orange span-40]
+@box[bg-white text-orange box-recomendations](Лучше не делать:#Не вызывать setState т.к. это будет вызовет перерисовку.)
 @snapend
 
 
@@ -164,7 +181,7 @@ componentWillUnmount
 @snap[south-east text-orange span-40]
 Лучше не делать:
 @ul[](false)
-- Не вызывать this.setState.
+- Не вызывать setState.
 @ulend
 @snapend
 
