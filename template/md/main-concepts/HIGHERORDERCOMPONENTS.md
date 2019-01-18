@@ -1,2 +1,2 @@
 ---?image=template/img/optimising.jpg
-@color[gold](`Higher-Order-Components (HOC)`)
+@color[gold](Higher-Order-Components (HOC))
