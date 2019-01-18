@@ -1,6 +1,6 @@
 ---?image=template/img/optimising.jpg
 @title[Create React App]
-@color[blue](### Используйте Create React App)
+@color[gold](Используйте Create React App)
 
 +++?
 @title[Why should we use Create React App];
