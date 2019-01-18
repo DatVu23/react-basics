@@ -1,3 +1,2 @@
 ---?image=template/img/optimising.jpg
-
-### Списки и ключи
+@color[gold](Списки и ключи)

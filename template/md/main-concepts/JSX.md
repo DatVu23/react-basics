@@ -1,5 +1,5 @@
 ---?image=template/img/optimising.jpg
-### JSX и Отрисовка элементов
+@color[gold](JSX и Отрисовка элементов)
 
 +++?
 @snap[north-west span-60]

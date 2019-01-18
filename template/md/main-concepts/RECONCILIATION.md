@@ -1,3 +1,2 @@
 ---?image=template/img/optimising.jpg
-
-### Reconciliation
+@color[gold](Reconciliation)
